@@ -13,6 +13,7 @@ View it in the browser at http://localhost:3003/
 
 
 ### Defining a styled component:
+You can create and edit your styled components within the `App.js` file
 ```
 const YourCustomName = styled.div`
   display: flex;
