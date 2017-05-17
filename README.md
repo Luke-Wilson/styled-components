@@ -1,12 +1,18 @@
-##Styled Components Playground
+# Styled Components Playground
 
-Installation:
+### Installation:
+```
 npm install
+```
 
-Usage:
+### Usage:
+```
 npm start
+```
+View it in the browser at http://localhost:3003/
 
-Defining a styled component:
+
+### Defining a styled component:
 const YourCustomName = styled.div`
   display: flex;
   width: 100px;
